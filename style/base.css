@@ -46,3 +46,5 @@ header p a {
 header p a:hover {
   text-decoration: underline;
 }
+
+section, p { margin: 20px; }
