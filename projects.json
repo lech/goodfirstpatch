@@ -1,0 +1,8 @@
+{
+  "name": "PouchDB",
+  "description": "The JavaScript database that syncs",
+  "project_url": "https://github.com/daleharvey/pouchdb",
+  "project_homepage": "http://pouchdb.com",
+  "contributing_url": "https://github.com/daleharvey/pouchdb/blob/master/CONTRIBUTING.md",
+  "issue_url": "https://github.com/daleharvey/pouchdb/issues?labels=goodfirstpatch",
+}
