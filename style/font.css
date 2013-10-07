@@ -1,0 +1,18 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,400italic);
+
+@font-face{
+font-family: 'Web Symbols';
+	src: url('../assets/websymbolsregular.eot');
+	src: url('../assets/websymbolsregular.eot?#iefix') format('embedded-opentype'),
+		url('../assets/websymbolsregular.woff') format('woff'),
+		url('../assets/websymbolsregular.ttf') format('truetype'),
+		url('../assets/websymbolsregular.svg#websymbolsregular') format('svg');
+font-weight: normal;
+font-style: normal;
+}
+
+/* Symbol reference: http://www.justbenicestudio.com/studio/websymbols/ */
+.symbol {
+	font-family: 'Web Symbols';
+	font-size: 100%;
+}
